@@ -15,13 +15,11 @@ int reset;
 
 void setup(void) 
 {
-  //Serial.begin(9600);
-  SerialBT.begin("ESP32 position"); 
+  SerialBT.begin("ESP32"); 
   /* Initialise the sensor */
   if(!bno1.begin()) 
   {
-    /* There was a problem detecting the BNO055 ... check your connections */
-    SerialBT.print("Ooops, no BNO055s detected ... Check your wiring or I2C ADDR!");
+    SerialBT.print("No BNO055 Detected");
     while(1);
   }
   delay(10);
