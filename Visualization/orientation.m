@@ -127,7 +127,7 @@ while(i<N)
         ylabel("Y")
         zlabel("Z")
         word = "Sample " + i + " of " + N;
-        title("Position and Orientation: " + word);
+        title("Orientation: " + word);
         view(10,10)
         pbaspect([1 1 1])
         drawnow
