@@ -1,5 +1,5 @@
-# LiveWirelessOrientationTracker
-Real Time Wireless Orientation Data Acquisition and 3D Plotting using an ESP32 Pico, BNO055 sensor, and Matlab. Orientation data is based on quaternions rather than Euler angles to improve accuracy and avoid gimbal lock. Point cloud data (.xyz or .txt) can also be plotted in real time.
+# Kyle Molinari
+May 10, 2020
 
 **3D Axis Orientation:**
 
