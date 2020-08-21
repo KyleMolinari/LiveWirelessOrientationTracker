@@ -9,7 +9,7 @@ May 10, 2020
 ![Point Cloud Cat Example](https://github.com/KyleMolinari/LiveWirelessOrientationTracker/blob/master/Visualization/catexample.png)
 
 **3D Axis and Point Cloud Orientation Overlay**
-![3D Axis and Point Cloud Orientation Overlay](https://github.com/KyleMolinari/LiveWirelessOrientationTracker/blob/master/Visualization/bunnyexample.png)
+![3D Axis and Point Cloud Orientation Overlay](https://github.com/KyleMolinari/LiveWirelessOrientationTracker/blob/master/Visualization/planewithaxesoverlay.png)
 
 **Hardware:**
       
